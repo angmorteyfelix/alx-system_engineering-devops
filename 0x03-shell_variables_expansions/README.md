@@ -1,1 +1,1 @@
-All scripts in this folder are relating to shell variables and expansions.
+This is the scripts relating to shell variables and expansion
